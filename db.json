@@ -1,0 +1,164 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "prjectname": "1th project",
+      "projectdata": "first Data",
+      "description": "this is first project",
+      "customer": [
+        {
+          "customername": "one",
+          "customerphone": "111111",
+          "customeremail": "one@gmail.com"
+        },
+        {
+          "customername": "two",
+          "customerphone": "222222",
+          "customeremail": "two@gmail.com"
+        },
+        {
+          "customername": "three",
+          "customerphone": "33333",
+          "customeremail": "three@gmail.com"
+        },
+        {
+          "customername": "four",
+          "customerphone": "444444",
+          "customeremail": "four@gmail.com"
+        }
+      ]
+    },
+    {
+      "prjectname": "2nd project",
+      "projectdata": "second Data",
+      "description": "this is second project",
+      "id": 2,
+      "customer": [
+        {
+          "customername": "one",
+          "customerphone": "111111",
+          "customeremail": "one@gmail.com"
+        },
+        {
+          "customername": "two",
+          "customerphone": "222222",
+          "customeremail": "two@gmail.com"
+        },
+        {
+          "customername": "three",
+          "customerphone": "33333",
+          "customeremail": "three@gmail.com"
+        },
+        {
+          "customername": "four",
+          "customerphone": "444444",
+          "customeremail": "four@gmail.com"
+        }
+      ]
+    },
+    {
+      "prjectname": "3rd project",
+      "projectdata": "third Data",
+      "description": "this is third project",
+      "id": 3,
+      "customer": [
+        {
+          "customername": "one",
+          "customerphone": "111111",
+          "customeremail": "one@gmail.com"
+        },
+        {
+          "customername": "two",
+          "customerphone": "222222",
+          "customeremail": "two@gmail.com"
+        },
+        {
+          "customername": "three",
+          "customerphone": "33333",
+          "customeremail": "three@gmail.com"
+        },
+        {
+          "customername": "four",
+          "customerphone": "444444",
+          "customeremail": "four@gmail.com"
+        }
+      ]
+    },
+    {
+      "peojectname": "4th",
+      "projectdata": "4th data",
+      "description": "about fouth project",
+      "id": 4,
+      "customer": [
+        {
+          "customername": "one",
+          "customerphone": "111111",
+          "customeremail": "one@gmail.com"
+        },
+        {
+          "customername": "two",
+          "customerphone": "222222",
+          "customeremail": "two@gmail.com"
+        },
+        {
+          "customername": "three",
+          "customerphone": "33333",
+          "customeremail": "three@gmail.com"
+        },
+        {
+          "customername": "four",
+          "customerphone": "444444",
+          "customeremail": "four@gmail.com"
+        }
+      ]
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "customername": "one",
+      "customerphone": "111111",
+      "customeremail": "one@gmail.com"
+    },
+    {
+      "id": 2,
+      "customername": "two",
+      "customerphone": "222222",
+      "customeremail": "two@gmail.com"
+    },
+    {
+      "id": 3,
+      "customername": "three",
+      "customerphone": "333333",
+      "customeremail": "three@gmail.com"
+    },
+    {
+      "id": 4,
+      "customername": "four",
+      "customerphone": "444444",
+      "customeremail": "four@gmail.com"
+    },
+    {
+      "customername": "fifth",
+      "customerphone": "555555",
+      "customeremail": "fifth@gmail.com",
+      "id": 5
+    },
+    {
+      "customername": "6th",
+      "customerphone": "666666",
+      "customeremail": "6th@gmail.com",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
